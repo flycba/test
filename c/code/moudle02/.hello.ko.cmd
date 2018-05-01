@@ -1,0 +1,1 @@
+cmd_/home/flycba/code/moudle02/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/flycba/code/moudle02/hello.ko /home/flycba/code/moudle02/hello.o /home/flycba/code/moudle02/hello.mod.o ;  true

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flycba/code/moudle02/hello.c
+linux/module.h
+-
+linux/init.h
+-
+linux/fs.h
+-
+linux/cdev.h
+-
+linux/slab.h
+-
+linux/uaccess.h
+-
+

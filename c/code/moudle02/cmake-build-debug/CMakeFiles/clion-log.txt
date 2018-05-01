@@ -1,0 +1,4 @@
+/home/flycba/clion-2016.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/flycba/code/moudle02
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/flycba/code/moudle02/cmake-build-debug
